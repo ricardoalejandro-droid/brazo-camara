@@ -1,0 +1,4 @@
+# OpenCV y numpy se instalan con apt en Raspberry Pi OS:
+#   sudo apt install python3-opencv python3-numpy
+adafruit-blinka
+adafruit-circuitpython-pca9685
